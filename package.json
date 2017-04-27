@@ -1,0 +1,17 @@
+{
+	"name": "theme-s-light",
+	"version": "0.1.0",
+	"publisher": "scorredoira",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "S Light",
+				"uiTheme": "vs",
+				"path": "./themes/S-light.tmTheme"
+			}
+		]
+	}
+}
